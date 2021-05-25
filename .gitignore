@@ -1,3 +1,6 @@
+*.h5
+*.pickle
+Summary_Test/weight
 # Byte-compiled / optimized / DLL files
 __pycache__/
 *.py[cod]
