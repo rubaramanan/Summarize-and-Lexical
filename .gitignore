@@ -1,0 +1,5 @@
+*.h5
+*.pickle
+Summary_Test/weight
+Summary_Test/venv
+
